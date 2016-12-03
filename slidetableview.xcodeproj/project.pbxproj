@@ -14,6 +14,7 @@
 		B014F8911DED8B8C009D4193 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B014F88F1DED8B8C009D4193 /* LaunchScreen.storyboard */; };
 		B014F89C1DED8B8D009D4193 /* slidetableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B014F89B1DED8B8D009D4193 /* slidetableviewTests.swift */; };
 		B014F8A71DED8B8D009D4193 /* slidetableviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B014F8A61DED8B8D009D4193 /* slidetableviewUITests.swift */; };
+		B014F8B51DED8BD2009D4193 /* slidetableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B014F8B41DED8BD2009D4193 /* slidetableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B014F8A21DED8B8D009D4193 /* slidetableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slidetableviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B014F8A61DED8B8D009D4193 /* slidetableviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slidetableviewUITests.swift; sourceTree = "<group>"; };
 		B014F8A81DED8B8D009D4193 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B014F8B41DED8BD2009D4193 /* slidetableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = slidetableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B014F8861DED8B8C009D4193 /* AppDelegate.swift */,
 				B014F8881DED8B8C009D4193 /* ViewController.swift */,
 				B014F88A1DED8B8C009D4193 /* Main.storyboard */,
+				B014F8B41DED8BD2009D4193 /* slidetableView.swift */,
 				B014F88D1DED8B8C009D4193 /* Assets.xcassets */,
 				B014F88F1DED8B8C009D4193 /* LaunchScreen.storyboard */,
 				B014F8921DED8B8C009D4193 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				B014F8891DED8B8C009D4193 /* ViewController.swift in Sources */,
 				B014F8871DED8B8C009D4193 /* AppDelegate.swift in Sources */,
+				B014F8B51DED8BD2009D4193 /* slidetableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
